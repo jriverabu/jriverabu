@@ -1,319 +1,125 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Juan David Rivera - Perfil Profesional</title>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
-    <style>
-        :root {
-            --primary: #015646;
-            --secondary: #0ea5e9;
-            --dark: #1f2937;
-            --light: #f3f4f6;
-        }
+# <div align="center">![Juan David Rivera](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=40&pause=1000&color=015646&center=true&vCenter=true&width=800&lines=Hola%2C+soy+Juan+David+Rivera)</div>
 
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-            font-family: 'Segoe UI', system-ui, sans-serif;
-        }
+<div align="center">
+  <h3>🚀 Experto en Marketing Digital | 🤖 Entusiasta de IA | 💻 Desarrollador</h3>
+</div>
 
-        body {
-            background: linear-gradient(to bottom, #1a1a1a, #2d3748);
-            color: white;
-            line-height: 1.6;
-        }
+<div align="center">
+  <a href="https://linkedin.com/in/tu-usuario">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/tu-usuario">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="mailto:tu-email@ejemplo.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=tu-usuario&style=for-the-badge&color=015646" alt="Visitas al perfil"/>
+</div>
 
-        .container {
-            max-width: 1200px;
-            margin: 0 auto;
-            padding: 2rem;
-        }
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tu-usuario&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&stroke=015646&ring=015646&fire=015646&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=015646&sideLabels=015646&dates=FFFFFF" alt="GitHub Streak Stats"/>
+</div>
 
-        .header {
-            text-align: center;
-            margin-bottom: 3rem;
-        }
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Sobre mí
 
-        .header h1 {
-            font-size: 3rem;
-            background: linear-gradient(to right, #10b981, #3b82f6);
-            -webkit-background-clip: text;
-            background-clip: text;
-            color: transparent;
-            margin-bottom: 1rem;
-        }
+<img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="320"/>
 
-        .header h2 {
-            color: #10b981;
-            font-size: 1.5rem;
-            margin-bottom: 2rem;
-        }
+```javascript
+const juanDavid = {
+    rol: "Marketing & AI Developer",
+    código: ["Python", "JavaScript", "React", "Node.js"],
+    herramientas: {
+        ia: ["ChatGPT", "TensorFlow", "PyTorch", "Hugging Face"],
+        marketing: ["Google Analytics", "Facebook Ads", "HubSpot"],
+        desarrollo: ["VS Code", "Git", "Docker"]
+    },
+    enfoque: "Combinar IA y Marketing para crear soluciones innovadoras"
+};
+```
 
-        .social-links {
-            display: flex;
-            justify-content: center;
-            gap: 1rem;
-            margin-bottom: 2rem;
-        }
+- 🔭 Actualmente trabajo en **campañas de marketing impulsadas por IA**
+- 🌱 Aprendiendo **nuevas aplicaciones de LLMs en marketing**
+- 👯 Busco colaborar en **proyectos que integren marketing, IA y desarrollo**
+- 💬 Pregúntame sobre **estrategias de marketing digital, IA generativa, o desarrollo**
+- ⚡ Fun fact: **Uso IA para optimizar mi flujo de trabajo diario**
 
-        .social-links a {
-            display: inline-flex;
-            align-items: center;
-            justify-content: center;
-            width: 45px;
-            height: 45px;
-            border-radius: 50%;
-            color: white;
-            text-decoration: none;
-            transition: transform 0.3s;
-        }
+## 🛠️ Stack Tecnológico
 
-        .social-links a:hover {
-            transform: translateY(-3px);
-        }
+### 📊 Marketing Digital & CRM
+<p align="left">
+  <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white" alt="Google Analytics"/>
+  <img src="https://img.shields.io/badge/Google%20Ads-4285F4?style=for-the-badge&logo=google-ads&logoColor=white" alt="Google Ads"/>
+  <img src="https://img.shields.io/badge/Facebook%20Ads-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Ads"/>
+  <img src="https://img.shields.io/badge/Mailchimp-FFE01B?style=for-the-badge&logo=mailchimp&logoColor=black" alt="Mailchimp"/>
+  <img src="https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white" alt="HubSpot"/>
+  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce"/>
+</p>
 
-        .linkedin { background: #0077b5; }
-        .twitter { background: #1da1f2; }
-        .github { background: #333; }
-        .email { background: #ea4335; }
+### 🤖 Inteligencia Artificial
+<p align="left">
+  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+</p>
 
-        .card {
-            background: rgba(31, 41, 55, 0.5);
-            border-radius: 1rem;
-            padding: 2rem;
-            margin-bottom: 2rem;
-            backdrop-filter: blur(10px);
-            border: 1px solid rgba(255, 255, 255, 0.1);
-        }
+### 💻 Desarrollo
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+</p>
 
-        .card h2 {
-            color: #10b981;
-            margin-bottom: 1rem;
-            display: flex;
-            align-items: center;
-            gap: 0.5rem;
-        }
+## 📈 Estadísticas de GitHub
 
-        .skills-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-            gap: 1.5rem;
-            margin: 2rem 0;
-        }
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=vue-dark&hide_border=true&bg_color=0D1117&title_color=015646&icon_color=015646"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=vue-dark&hide_border=true&bg_color=0D1117&title_color=015646&icon_color=015646"/>
+</div>
 
-        .skill-category {
-            background: rgba(31, 41, 55, 0.7);
-            border-radius: 0.75rem;
-            padding: 1.5rem;
-        }
+## 🌟 Proyectos Destacados
 
-        .skill-category h3 {
-            color: #10b981;
-            margin-bottom: 1rem;
-        }
+<div align="center">
+  <a href="https://github.com/tu-usuario/proyecto-ia-marketing">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tu-usuario&repo=proyecto-ia-marketing&theme=vue-dark&hide_border=true&bg_color=0D1117&title_color=015646&icon_color=015646" />
+  </a>
+  <a href="https://github.com/tu-usuario/app-analisis-sentimientos">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tu-usuario&repo=app-analisis-sentimientos&theme=vue-dark&hide_border=true&bg_color=0D1117&title_color=015646&icon_color=015646" />
+  </a>
+</div>
 
-        .skills-list {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 0.75rem;
-        }
+## 📊 Contribuciones
 
-        .skill-tag {
-            background: rgba(55, 65, 81, 0.7);
-            padding: 0.5rem 1rem;
-            border-radius: 9999px;
-            font-size: 0.875rem;
-            display: flex;
-            align-items: center;
-            gap: 0.5rem;
-        }
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tu-usuario&theme=vue&bg_color=0D1117&color=015646&line=015646&point=FFFFFF&hide_border=true" width="100%"/>
+</div>
 
-        .skill-tag i {
-            color: #10b981;
-        }
+<div align="center">
+  <img src="https://github.com/tu-usuario/tu-usuario/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
+</div>
 
-        .projects-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-            gap: 1.5rem;
-        }
+## 🤝 ¡Conectemos!
 
-        .project-card {
-            background: rgba(55, 65, 81, 0.7);
-            border-radius: 0.75rem;
-            padding: 1.5rem;
-            transition: transform 0.3s;
-        }
+<div align="center">
+  <p>¿Interesado en colaborar en proyectos innovadores de marketing digital o IA?</p>
+  <p>¡Contáctame! Siempre estoy abierto a nuevas oportunidades y desafíos emocionantes.</p>
+  <a href="mailto:tu-email@ejemplo.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://linkedin.com/in/tu-usuario">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/tu-usuario">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+</div>
 
-        .project-card:hover {
-            transform: translateY(-5px);
-        }
-
-        .project-card h3 {
-            color: white;
-            margin-bottom: 0.75rem;
-        }
-
-        .project-card p {
-            color: #d1d5db;
-            font-size: 0.875rem;
-            margin-bottom: 1rem;
-        }
-
-        .project-link {
-            color: #10b981;
-            text-decoration: none;
-            display: flex;
-            align-items: center;
-            gap: 0.5rem;
-            font-size: 0.875rem;
-        }
-
-        .project-link:hover {
-            color: #059669;
-        }
-
-        .contact-section {
-            text-align: center;
-        }
-
-        .contact-button {
-            display: inline-flex;
-            align-items: center;
-            gap: 0.5rem;
-            background: #10b981;
-            color: white;
-            text-decoration: none;
-            padding: 0.75rem 1.5rem;
-            border-radius: 0.5rem;
-            font-weight: 500;
-            transition: background-color 0.3s;
-        }
-
-        .contact-button:hover {
-            background: #059669;
-        }
-
-        @media (max-width: 768px) {
-            .container {
-                padding: 1rem;
-            }
-
-            .header h1 {
-                font-size: 2rem;
-            }
-
-            .header h2 {
-                font-size: 1.25rem;
-            }
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <header class="header">
-            <h1>Hola, soy Juan David Rivera</h1>
-            <h2>🚀 Experto en Marketing Digital | 🤖 Entusiasta de IA | 💻 Desarrollador</h2>
-            <div class="social-links">
-                <a href="https://linkedin.com/in/tu-usuario" class="linkedin" title="LinkedIn">
-                    <i class="fab fa-linkedin-in"></i>
-                </a>
-                <a href="https://twitter.com/tu-usuario" class="twitter" title="Twitter">
-                    <i class="fab fa-twitter"></i>
-                </a>
-                <a href="https://github.com/tu-usuario" class="github" title="GitHub">
-                    <i class="fab fa-github"></i>
-                </a>
-                <a href="mailto:tu-email@ejemplo.com" class="email" title="Email">
-                    <i class="fas fa-envelope"></i>
-                </a>
-            </div>
-        </header>
-
-        <section class="card">
-            <h2><i class="fas fa-bullseye"></i> Sobre mí</h2>
-            <p>Soy un profesional multifacético con experiencia en marketing digital, desarrollo de software e inteligencia artificial. 
-            Mi pasión es combinar estas disciplinas para crear soluciones innovadoras y efectivas.</p>
-            <ul style="list-style: none; margin-top: 1rem;">
-                <li><i class="fas fa-rocket"></i> Actualmente estoy trabajando en <strong>campañas de marketing impulsadas por IA</strong></li>
-                <li><i class="fas fa-seedling"></i> Estoy aprendiendo <strong>nuevas aplicaciones de LLMs en marketing</strong></li>
-                <li><i class="fas fa-users"></i> Busco colaborar en <strong>proyectos que integren marketing, IA y desarrollo</strong></li>
-                <li><i class="fas fa-comments"></i> Pregúntame sobre <strong>estrategias de marketing digital, IA generativa, o desarrollo de apps</strong></li>
-            </ul>
-        </section>
-
-        <div class="skills-grid">
-            <div class="skill-category">
-                <h3><i class="fas fa-chart-line"></i> Marketing Digital & CRM</h3>
-                <div class="skills-list">
-                    <span class="skill-tag"><i class="fab fa-google"></i> Google Analytics</span>
-                    <span class="skill-tag"><i class="fab fa-google"></i> Google Ads</span>
-                    <span class="skill-tag"><i class="fab fa-facebook-f"></i> Facebook Ads</span>
-                    <span class="skill-tag"><i class="fas fa-envelope"></i> Mailchimp</span>
-                    <span class="skill-tag"><i class="fas fa-h-square"></i> HubSpot</span>
-                    <span class="skill-tag"><i class="fab fa-salesforce"></i> Salesforce</span>
-                </div>
-            </div>
-
-            <div class="skill-category">
-                <h3><i class="fas fa-robot"></i> Inteligencia Artificial</h3>
-                <div class="skills-list">
-                    <span class="skill-tag"><i class="fas fa-brain"></i> ChatGPT</span>
-                    <span class="skill-tag"><i class="fas fa-code"></i> GPT-3</span>
-                    <span class="skill-tag"><i class="fas fa-image"></i> DALL·E</span>
-                    <span class="skill-tag"><i class="fab fa-python"></i> TensorFlow</span>
-                    <span class="skill-tag"><i class="fas fa-fire"></i> PyTorch</span>
-                    <span class="skill-tag"><i class="fas fa-code-branch"></i> Hugging Face</span>
-                </div>
-            </div>
-
-            <div class="skill-category">
-                <h3><i class="fas fa-laptop-code"></i> Desarrollo</h3>
-                <div class="skills-list">
-                    <span class="skill-tag"><i class="fab fa-python"></i> Python</span>
-                    <span class="skill-tag"><i class="fab fa-js"></i> JavaScript</span>
-                    <span class="skill-tag"><i class="fab fa-react"></i> React</span>
-                    <span class="skill-tag"><i class="fab fa-node-js"></i> Node.js</span>
-                    <span class="skill-tag"><i class="fas fa-database"></i> SQL</span>
-                    <span class="skill-tag"><i class="fab fa-git-alt"></i> Git</span>
-                </div>
-            </div>
-        </div>
-
-        <section class="card">
-            <h2><i class="fas fa-star"></i> Proyectos Destacados</h2>
-            <div class="projects-grid">
-                <div class="project-card">
-                    <h3>IA Marketing Analytics</h3>
-                    <p>Plataforma de análisis de marketing impulsada por IA para optimización de campañas.</p>
-                    <a href="#" class="project-link">
-                        Ver proyecto <i class="fas fa-external-link-alt"></i>
-                    </a>
-                </div>
-                <div class="project-card">
-                    <h3>Sentiment Analysis Tool</h3>
-                    <p>Herramienta de análisis de sentimientos para feedback de clientes.</p>
-                    <a href="#" class="project-link">
-                        Ver proyecto <i class="fas fa-external-link-alt"></i>
-                    </a>
-                </div>
-            </div>
-        </section>
-
-        <footer class="card contact-section">
-            <h2><i class="fas fa-handshake"></i> ¡Conectemos!</h2>
-            <p>¿Interesado en colaborar en proyectos innovadores de marketing digital o IA?<br>
-            ¡Contáctame! Siempre estoy abierto a nuevas oportunidades y desafíos emocionantes.</p>
-            <div style="margin-top: 1.5rem;">
-                <a href="mailto:tu-email@ejemplo.com" class="contact-button">
-                    <i class="fas fa-envelope"></i> Contactar
-                </a>
-            </div>
-        </footer>
-    </div>
-</body>
-</html>
-
+---
+<div align="center">
+  <sub>⭐️ From [tu-usuario](https://github.com/tu-usuario) with 💚</sub>
+</div>
